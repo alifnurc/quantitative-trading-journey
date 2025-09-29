@@ -4,9 +4,9 @@ Repository ini mendokumentasikan perjalanan belajar saya dari tidak mengerti pyt
 
 ## Learning Progress Checklist
 
-### Phase 0: Foundation Building (3-6 Bulan)
+### Phase 0: [Foundation Building](Foundation) (3-6 Bulan)
 
-- [ ] Phyton syntax dasar, variables, functions
+- [x] Phyton syntax dasar, variables, functions
 - [ ] Data struktur, file handling dan basic libraries
 - [ ] Simple scripting, debugging, project organization
 
